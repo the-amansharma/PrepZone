@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logoColor=white&logo=firebase&color=DD2C00" alt="firebase" />
   </div>
 
-  <h3 align="center">IntervueAI: An AI-driven job interview preparation platform powered by Vapi AI voice agents for real-time, interactive mock interviews.</h3>
+  <h3 align="center">PrepZone: An AI-driven job interview preparation platform powered by Vapi AI voice agents for real-time, interactive mock interviews.</h3>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-IntervueAI is an innovative, AI-powered platform designed to help users prepare for job interviews through real-time voice interactions. Built with Next.js for both the frontend and backend, Firebase for seamless authentication and data management, and styled using Tailwind CSS, the application integrates Vapi AI voice agents to simulate real interview scenarios. Leveraging the power of Google Gemini, it provides instant, intelligent feedback to help users improve their performance. Whether you're a fresh graduate or an experienced professional, IntervueAI offers a sleek, responsive, and immersive experience tailored to modern job preparation needs.
+PrepZone is an innovative, AI-powered platform designed to help users prepare for job interviews through real-time voice interactions. Built with Next.js for both the frontend and backend, Firebase for seamless authentication and data management, and styled using Tailwind CSS, the application integrates Vapi AI voice agents to simulate real interview scenarios. Leveraging the power of Google Gemini, it provides instant, intelligent feedback to help users improve their performance. Whether you're a fresh graduate or an experienced professional, PrepZone offers a sleek, responsive, and immersive experience tailored to modern job preparation needs.
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -68,9 +68,9 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/the-amansharma/IntervueAI
+git clone https://github.com/the-amansharma/PrepZone
 
-cd IntervueAI
+cd PrepZone
 ```
 
 **Installation**
