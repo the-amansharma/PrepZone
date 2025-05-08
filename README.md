@@ -7,7 +7,9 @@
   </div>
 
   <h3 align="center">PrepZone: An AI-driven job interview preparation platform powered by Vapi AI voice agents for real-time, interactive mock interviews.</h3>
-
+  <h3 align="center">
+    <a href="https://prepzone.vercel.app" target="_blank" rel="noopener noreferrer">🚀 Live Demo: prepzone.vercel.app</a>
+  </h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
